@@ -7,7 +7,7 @@
 int main(void)
 {
 	int order = 48;
-    int order2 = 97;
+	int order2 = 97;
 
 	while (order <= 58)
 	{
