@@ -14,7 +14,7 @@ int main(void)
 		if (order != 9)
 		{
 			putchar(',');
-			putchar(' ')
+			putchar(' ');
 		}
 		order++;
 	}
