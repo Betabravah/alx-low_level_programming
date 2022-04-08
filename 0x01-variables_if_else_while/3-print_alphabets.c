@@ -12,12 +12,12 @@ int main(void)
 	while (order1 < 123)
 	{
 		putchar(order1);
-		orde1r++;
+		order1++;
 	}
-		while (order1 < 92)
+		while (order2 < 92)
 	{
-		putchar(order1);
-		orde1r++;
+		putchar(order2);
+		order2++;
 	}
 	putchar('\n');
 	return (0);
