@@ -9,7 +9,7 @@ int main(void)
 	int order = 48;
 	int order2 = 97;
 
-	while (order <= 58)
+	while (order <= 57)
 	{
 		putchar(order);
 		order++;
