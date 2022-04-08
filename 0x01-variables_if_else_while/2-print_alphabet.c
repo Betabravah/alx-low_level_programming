@@ -8,8 +8,10 @@ int main(void)
 {
 	int order = 97;
 	while (order < 123)
+	{
 		putchar(order);
 		order++;
+	}
 	return(0);
 }
 
