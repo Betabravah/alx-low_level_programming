@@ -11,7 +11,7 @@ int main(void)
 	while (order <= '9')
 	{
 		putchar(order);
-		if (order != 9)
+		if (order != '9')
 		{
 			putchar(',');
 			putchar(' ');
