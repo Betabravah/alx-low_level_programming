@@ -10,7 +10,7 @@ int main(void)
 
 	while (order <= 9)
 	{
-		putchar(order);
+		putchar(order + 48);
 		order++;
 	}
 	putchar('\n');
