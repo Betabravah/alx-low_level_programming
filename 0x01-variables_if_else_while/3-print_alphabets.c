@@ -14,7 +14,7 @@ int main(void)
 		putchar(order1);
 		order1++;
 	}
-		while (order2 < 92)
+		while (order2 < 91)
 	{
 		putchar(order2);
 		order2++;
